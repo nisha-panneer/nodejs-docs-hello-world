@@ -9,6 +9,7 @@ const cors = require('cors')
 const crypto = require('crypto');
 const pkg = require('./package.json');
 
+console.log("okok");
 
 // App constants
 const port = process.env.PORT || 3000;
